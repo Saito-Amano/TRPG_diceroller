@@ -58,7 +58,7 @@ Copy
 
 ## ライセンス
 
-[MIT License](LICENSE)
+無断配布・販売禁止
 
 ## 開発者情報
 
