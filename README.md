@@ -50,7 +50,8 @@ git clone https://github.com/Saito-Amano/TRPG_diceroller.git
 Copy
 2. `index.html` をブラウザで開くだけで利用開始できます。
 
-または、GitHub Pagesで公開している場合は、そのURLからも利用可能です。
+または、GitHub Pagesにも公開しています。
+https://saito-amano.github.io/TRPG_diceroller/
 
 ## 貢献について
 
